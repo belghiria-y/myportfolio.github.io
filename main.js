@@ -2178,7 +2178,7 @@ document.addEventListener('keydown', (e) => {
     (e.key === 'F12') // F12
   ) {
     e.preventDefault();
-    alert('This action is disabled.');
+    alert('Ya lghder bda.');
   }
 });
 
